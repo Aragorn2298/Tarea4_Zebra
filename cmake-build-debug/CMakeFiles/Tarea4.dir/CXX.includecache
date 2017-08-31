@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rbara/CLionProjects/Tarea4/Evaluador.cpp
+Evaluador.h
+C:/Users/rbara/CLionProjects/Tarea4/Evaluador.h
+
+C:/Users/rbara/CLionProjects/Tarea4/Evaluador.h
+Mascota.h
+C:/Users/rbara/CLionProjects/Tarea4/Mascota.h
+iostream
+-
+queue
+-
+
+C:/Users/rbara/CLionProjects/Tarea4/Mascota.cpp
+Mascota.h
+C:/Users/rbara/CLionProjects/Tarea4/Mascota.h
+
+C:/Users/rbara/CLionProjects/Tarea4/Mascota.h
+iostream
+-
+list
+-
+fstream
+-
+
+C:/Users/rbara/CLionProjects/Tarea4/main.cpp
+Mascota.h
+C:/Users/rbara/CLionProjects/Tarea4/Mascota.h
+Evaluador.h
+C:/Users/rbara/CLionProjects/Tarea4/Evaluador.h
+iostream
+-
+list
+-
+fstream
+-
+
